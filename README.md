@@ -12,7 +12,7 @@ I am Fullstack Web-developer. Using React, Redux, CSS3 etc. at frontend developm
 
 <hr />
 
-<img alt="codewars" width="40%" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
+<img alt="codewars" width="60%" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
 
 <hr />
 
