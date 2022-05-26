@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fullstack Web-developer. Using React, Redux, CSS3 etc. at frontend development & ExpressJS, MongoDB etc. at the backend development.
+I am Full stack Web-developer. Using React, Redux, CSS3 etc. at front-end development & ExpressJS, MongoDB etc. at the back-end development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrowv)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +12,7 @@ I am Fullstack Web-developer. Using React, Redux, CSS3 etc. at frontend developm
 
 <hr />
 
-<img alt="codewars" width="60%" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
+<img alt="codewars" width="60%" align="center" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
 
 <hr />
 
