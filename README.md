@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Full stack Web-developer. Using React, Redux, CSS3 etc. at front-end development & Node.js, Express.js, MongoDB etc. at the back-end development.
+I am Full stack Web-developer. I use React, Redux, CSS3 and some other technologies at front-end development & Node.js, Express.js, MongoDB and Socket IO at back-end development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrowv)](https://github.com/anuraghazra/github-readme-stats)
 
