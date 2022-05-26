@@ -2,7 +2,7 @@
 
 I am Full stack Web-developer. I use React, Redux, CSS3 and some other technologies at front-end development & Node.js, Express.js, MongoDB and Socket IO at back-end development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrowv)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrowv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
 
