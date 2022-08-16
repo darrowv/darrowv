@@ -19,7 +19,9 @@ Contacts:
 
 Email: nasirmaga45@gmail.com
 
-[telegram](https://t.me/Muhammad_Nasyr)
+[Telegram](https://t.me/Muhammad_Nasyr)
+
+[LinkedIn](https://www.linkedin.com/in/darrowv/)
 
 CV:
 
