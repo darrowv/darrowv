@@ -19,18 +19,6 @@ Contacts:
 
 Email: nasirmaga45@gmail.com
 
-[Telegram](https://t.me/Muhammad_Nasyr)
+[Telegram](https://t.me/m_nasyr)
 
 [LinkedIn](https://www.linkedin.com/in/darrowv/)
-
-CV:
-
-[Akhmadov Nasyr](https://hh.ru/resume/f395867bff0b23a6020039ed1f593354737856)
-
-
-
-
- 
-
-
-  
