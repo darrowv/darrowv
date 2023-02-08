@@ -2,7 +2,7 @@
 ## I'm Frontend Web-developer.
 
 <h1 align="center">My stack</h1> 
-<b><p align="center">TypeScript/JavaScript, React, Redux/Redux Toolkit, HTML5, Svelte, CSS3/SCSS/CSS-Modules, Adaptive/Responsive design, Framer Motion, ES6, Node JS, Express JS, MongoDB, Socket IO, Figma, Postman, jsonwebtoken, Flexbox, JSON, git...</ p><b>
+<b><p align="center">TypeScript/JavaScript, React, Next.js, Redux/Redux Toolkit, HTML5, Svelte, CSS3/SCSS/CSS-Modules, Adaptive/Responsive design, Framer Motion, ES6, Node JS, Express JS, MongoDB, Socket IO, Figma, Postman, jsonwebtoken, Flexbox, JSON, git...</ p><b>
 <p align="center">I'm currently learning React Native...</p>
 
 <hr />
