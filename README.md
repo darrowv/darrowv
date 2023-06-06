@@ -7,7 +7,7 @@
 - JavaScript/TypeScript
 - React.js | Next.js | Svelte
 - HTML5
-- CSS | SASS/SCSS | CSS modules
+- CSS | SASS/SCSS | CSS modules | TailwindCSS
 - Adaptive/Responsive Design
 - Figma | Postman | GIT
 - Vite | Webpack
