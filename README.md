@@ -5,8 +5,4 @@
 - CSS | TailwindCSS | SASS/SCSS | CSS modules 
 - Adaptive / Responsive Design
 
-<hr />
-
-<img alt="codewars" width="40%" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
-
-<hr />
+<img alt="codewars" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
