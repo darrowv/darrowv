@@ -5,6 +5,6 @@
 - CSS | TailwindCSS | SASS/SCSS | CSS modules 
 - Adaptive / Responsive Design
 
-I use neovim, btw
+I use vim, btw
 
 <img alt="codewars" src="https://www.codewars.com/users/Muhammad-Nasyr/badges/large" />
