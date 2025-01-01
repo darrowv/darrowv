@@ -1,6 +1,6 @@
 ### Current Stack:
 - JavaScript / TypeScript
-- React.js | Next.js | Svelte
+- React.js | Next.js | React Native | Svelte
 - NestJS | PostgreSQL | Prisma | Swagger
 - CSS | TailwindCSS | SASS/SCSS | CSS modules 
 - Adaptive / Responsive Design
